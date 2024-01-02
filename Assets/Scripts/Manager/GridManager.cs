@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class GridManager : MonoBehaviour
 {
-    [SerializeField] private GameObject gridPrefab;
+    
 }
